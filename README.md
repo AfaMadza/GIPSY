@@ -4,7 +4,7 @@
 
 ### Description
 GIPSY is a web application that employs ``React.js``, ``Redux``, and ``Firebase`` in order to provide a beautiful and seamless interface
-for users to search for GIFs, view trending GIFs and adding GIFs to their Favorites. This application sends requests to the ``GIPHY API``,
+for users to search for GIFs, view trending GIFs and add GIFs to their Favorites. This application sends requests to the ``GIPHY API``,
 and utilizes the API's ``/search`` endpoint to search for users' queries.
 
 ### Environment
