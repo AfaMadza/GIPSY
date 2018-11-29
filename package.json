@@ -1,0 +1,65 @@
+{
+  "_from": "gipsy",
+  "_id": "gipsy@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-N+yH/llw6wzTPTklAgiCN7wKUkpO8fMzgFOwlgg/S7jOzbww1j4WIzeltd0H7Y6FGdRLKuOWtvcy8QPpEfASxA==",
+  "_location": "/gipsy",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gipsy",
+    "name": "gipsy",
+    "escapedName": "gipsy",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gipsy/-/gipsy-0.2.0.tgz",
+  "_shasum": "b37270c458e6a9ceecb24c15266999dceb814b67",
+  "_spec": "gipsy",
+  "_where": "C:\\Users\\Afa\\Desktop\\npm test",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "bundleDependencies": false,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.8",
+    "@fortawesome/free-solid-svg-icons": "^5.5.0",
+    "@fortawesome/react-fontawesome": "^0.1.3",
+    "@material-ui/core": "^3.5.1",
+    "@material-ui/icons": "^3.0.1",
+    "axios": "^0.18.0",
+    "mdbreact": "^4.8.3",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-redux": "^5.1.1",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "register-service-worker": "^1.5.2"
+  },
+  "deprecated": false,
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "name": "gipsy",
+  "private": false,
+  "scripts": {
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "test": "react-scripts test"
+  },
+  "version": "0.2.0"
+}

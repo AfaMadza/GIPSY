@@ -1,0 +1,20 @@
+export const SEARCH_START = 'SEARCH_START';
+export const SEARCH_SUCCESS = 'SEARCH_SUCCESS';
+export const SEARCH_FAIL = 'SEARCH_FAIL';
+
+export const AUTH_START = 'AUTH_START';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAIL = 'AUTH_FAIL';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+
+export const FAVE_START = 'FAVE_START';
+export const FAVE_SUCCESS = 'FAVE_SUCCESS';
+export const FAVE_FAIL = 'FAVE_FAIL';
+export const FAVE_DEL = 'FAVE_DEL';
+
+export const FETCH_FAVES_SUCCESS = 'FETCH_FAVES_SUCCESS';
+export const FETCH_FAVES_FAIL = 'FETCH_FAVES_FAIL';
+export const FETCH_FAVES_START = 'FETCH_FAVES_START';
+
+export const SET_AUTH_REDIRECT_PATH = 'SET_AUTH_REDIRECT_PATH';
+export const SET_SEARCH_REDIRECT_PATH = 'SET_SEARCH_REDIRECT_PATH';
