@@ -1,5 +1,5 @@
 # GIPSY
-![GIPSY Logo](https://ibb.co/MN8KP8v)
+![GIPSY Logo](https://i.ibb.co/rybq5bj/Gipsy-Logo.png)
 
 
 ### Description
@@ -43,7 +43,7 @@ Note that the development build is not optimized.
 To create a production build, use npm run build.
 
 ```
-![Screen Shot](https://ibb.co/DbBSCYC)
+![Screen Shot](https://i.ibb.co/TTQF818/Gipsy-Screen.jpg)
 
 ---
 
