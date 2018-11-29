@@ -16,9 +16,9 @@ The repository contains the following components:
 
    **Directory**   |   **Description**
    -------------- | ---------------------
-   components | Contains React.js components relating to UI, Navigation, Requests, Logos and the Footer
+   components | Contains React.js components relating to UI, Navigation, Requests, Logos...
    hoc | Contains higher order components 
-   store | Includes actions and reducers necessary for mapping state to props and props to dispatch
+   store | Includes actions and reducers necessary for mapping state to props and dispatch to props
    assets | Contains logos and images used throughout the application
 
 ### Usage and Installation
